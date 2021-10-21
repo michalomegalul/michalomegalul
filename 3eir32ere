@@ -1,0 +1,8 @@
+git add .
+git commit -a-e 
+git push
+#todle je ten git hub kdyz to chcu aktualizovat
+
+
+ git clone
+ #todle je na stahnuti za to dam web
