@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @michalomegalul
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on me
-- 📫 How to reach me sádlo666#1594
-
-
+Hi, my name is Michal.
+I'm a first-grade student on 1.ITGymnazium.
+Currently learning c#, python, and HTML/CSS.
+I love solving problems.
+Love video games such as Death stranding Factorio and League of Legends.
