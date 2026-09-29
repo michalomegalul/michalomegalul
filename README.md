@@ -1,5 +1,10 @@
 
-School: SSPS
+School: VŠE
 The Factory Must Grow
-C# <3
+
+Portfolio:
+dobsinsky.dev
+
+
+
 Michal Dobšínský
